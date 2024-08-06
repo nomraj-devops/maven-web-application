@@ -6,7 +6,7 @@
 <body>
 
 <h1>Welcome Rapyder Cloud Solutions.....</h1>
-<p>my container is running....</p>
+<p>my container is running..</p>
 
 </body>
 </html>
