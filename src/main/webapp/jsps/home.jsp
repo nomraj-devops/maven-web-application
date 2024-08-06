@@ -6,7 +6,7 @@
 <body>
 
 <h1>Container</h1>
-<p>my container is running</p>
+<p>my container is started</p>
 
 </body>
 </html>
