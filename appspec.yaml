@@ -3,7 +3,7 @@ version: 0.0
 os: linux
 
 files:
-  - source: /  # Source is the root directory of your GitHub repository
+  - source: src/main/webapp/jsps/home.jsp
     destination: /var/www/myapp  # Destination directory on the EC2 instance
 
 hooks:
