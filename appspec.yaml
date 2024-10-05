@@ -1,10 +1,10 @@
-version: 0.0  # EC2/on-premise deployments use version 0.0
+version: 0.0
 
-os: linux     # The OS of your EC2 instance
+os: linux
 
 files:
-  - source: src/main/webapp/jsps    # Source directory from your GitHub repository
-    destination: /var/www/myapp/jsps  # Destination directory on the EC2 instance
+  - source: /  # Source is the root directory of your GitHub repository
+    destination: /var/www/myapp  # Destination directory on the EC2 instance
 
 hooks:
   BeforeInstall:
