@@ -6,7 +6,7 @@
 <body>
 
 <h1>Welcome Rapyder Cloud Solutions.....</h1>
-<p>my poc is working please check</p>
+<p>Finally deployed application on ecs</p>
 
 </body>
 </html>
